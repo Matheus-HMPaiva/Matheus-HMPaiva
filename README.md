@@ -2,6 +2,8 @@
 
 🏫 Bachelor in Electronic Engineering 🏫 Postgraduate in Software Engineering
 
+Experience with hardware description language, HDL, mainly verilog.
+
 Technology professional with three years of experience with practical knowledge in SQL database analysis, programming in Python, C, C++ 
 and firmware development. I use DAX in my daily life to create Dashboards and Business Intelligence tools. I have knowledge of agile tools 
 and Six Sigma Green Belt. 
