@@ -18,7 +18,12 @@ Strong interest in:
 - Neural Processing Units (NPU)  
 - High-performance digital systems  
 
----
+## 🚀 Projects I Contributed To
+
+### 🧠 RISC-V SoC (PicoRV32 + AXI)
+- Contribution to a System-on-Chip (SoC) based on PicoRV32 architecture
+- Worked with Verilog design, AXI interface, and embedded system integration  
+- Repository: https://github.com/danilolimadev/soc_iot_picorv32_axi
 
 ## 🛠️ Tech Stack
 
