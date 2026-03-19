@@ -25,7 +25,7 @@ Strong interest in:
 <div style="display: inline_block"><br>  
 
   <!-- Hardware / Low Level -->
-  <img align="center" alt="Matheus-Verilog" height="30" width="40" src="https://img.icons8.com/?size=512&id=38656&format=png">
+  <img align="center" alt="Matheus-Verilog" height="30" width="40" src="[https://img.icons8.com/?size=512&id=38656&format=png](https://www.svgrepo.com/svg/374163/verilog)">
   <img align="center" alt="Matheus-RISCV" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/RISC-V-logo.svg">
 
   <!-- Programming -->
