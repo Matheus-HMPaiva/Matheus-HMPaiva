@@ -20,9 +20,18 @@ Strong interest in:
 
 ## 🚀 Projects I Contributed To
 
-### 🧠 RISC-V SoC (PicoRV32 + AXI)
-- Contribution to a System-on-Chip (SoC) based on PicoRV32 architecture
-- Worked with Verilog design, AXI interface, and embedded system integration  
+### 🔐 Project I — AES-128 Encryption with I2C Interface
+- Contributed to the development of an AES-128 cryptographic system with I2C slave interface
+- Worked on Verilog modules for encryption/decryption and control logic (FSM)
+- Participated in system integration and communication handling  
+- Repository: https://github.com/JanainaGMOliveira/AES128I2C-EQUIPE
+
+---
+
+### 🧠 Project II — RISC-V SoC (PicoRV32 + AXI)
+- Contributed to a System-on-Chip (SoC) based on PicoRV32 architecture
+- Worked with Verilog design and AXI-based communication
+- Participated in integration of processor and peripherals  
 - Repository: https://github.com/danilolimadev/soc_iot_picorv32_axi
 
 ## 🛠️ Tech Stack
